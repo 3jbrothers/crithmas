@@ -1,0 +1,503 @@
+  @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&family=Oswald:wght@200&family=Roboto+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&family=Oswald:wght@200;300;400;500;600;700&family=Roboto+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Doodle+Shadow&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100;300;400&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Doodle+Shadow&display=swap')
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.logo img {
+    width: 132px;
+    position: relative;
+    left: 102px;
+    top: 9px;
+}.logo {
+    float: left;
+}
+.logo img {
+    margin-top: -1px;
+    margin-left: 41px;
+}
+.menu {
+    float: left;
+    margin-left: 36%;
+    margin-top: 20px;
+}
+
+ul.menuitem li {
+    float: left;
+    list-style:none;
+    text-transform:uppercase;
+    padding:20px;
+    color:
+}
+ul.menuitem li:hover{
+    color: orangered;
+    cursor: pointer;
+    transition: 0.5s;
+}li {
+    font-family: sans-serif;
+}
+.secimg img {
+    margin-top: 153px;
+}
+.imgtitle h2 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    left: 47%;
+    bottom: 283px;
+    width: 359px;
+    margin: 1px 30px;
+    font-size: 30px;
+}
+.imgtitle h3 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    left: 47%;
+    bottom: 283px;
+    width: 359px;
+     margin: 15px 88px;
+    font-size: 25px;
+
+}
+.imgtitle p {
+    margin-top: -264px;
+    margin-left: 588px;
+    width: 29%;
+    font-family: rubik doodle shadow;
+}
+.imgtitle button {
+    margin-left: 616px;
+    margin-top: 43px;
+    border: none;
+    background: orangered;
+    padding: 11px;
+    border-radius: 30px;
+}
+.imgtitle1 button {
+    margin-left: 616px;
+    margin-top: 43px;
+    border: none;
+    background: orangered;
+    padding: 11px;
+    border-radius: 30px;
+}
+.chrisbox1 img {
+    float: left;
+    margin-left: 148px;
+    margin-top: 68px;
+}
+.chrisbox1 img {
+    float: left;
+    margin-left: 148px;
+    margin-top: 68px;
+}
+
+.chrisboximg img {
+    display: block;
+    margin-top: 211px;
+}
+
+.chrisboxtitle h5 {
+    position: relative;
+    top: 308px;
+}
+.chrisboximg2 img {
+    margin-top: 128px;
+}
+main h5 {position: relative;top: 290px;left: -81px;}
+
+main p {
+    position: relative;
+    top: 313px;
+    left: -103px;
+}
+
+.chrisboxtitle2 h5 {position: relative;top: 200px;left: -69px;}
+
+.chrisboximg2 img {
+    margin-top: 111px;
+}
+
+.chrisboxtitle2 p {
+    position: relative;
+    top: 200px;
+    left: -79px;
+}
+main h1 {
+    /* left: 36px; */
+    position: relative;
+    width: 241px;
+    top: 113px;
+    left: -20px;
+}
+.chrisboxtitle3 h5 {
+    position: relative;
+    top: 6pc;
+}
+.chrisboximg3 img {
+    margin-top: -16px;
+}
+.chrisboxtitle3 p {position: relative;top: 6pc;}
+.chrisbox1 {
+    margin-left: 99px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:900px) {
+    .logo img {
+       
+        width: 214px;
+        left: 1px;
+    }
+    ul.menuitem {
+        display: none;
+    }
+
+.imgtitle {
+    margin-left: -430px;
+    margin-top: 279px;
+}
+
+.imgtitle p {
+    margin-left: 468px;
+}
+
+.imgtitle button {
+    margin-left: 530px;
+}
+.imgtitle h2 {
+    font-size: 24px;
+    margin-left: 58px;
+}
+.secimg img {
+    width: 205px;
+    position: relative;
+    left: -81px;
+    top: -68px;
+}
+.chrisboximg img {
+    position: relative;
+    left: -149px;
+}
+.chrisboximg2 img {
+    position: relative;
+    left: -2pc;
+
+}
+
+
+
+.chrisboximg3 img {position: relative;
+    left: -49px;
+    top: 26px;}
+
+    .chrisboxtitle h5 {position: relative;left: -227px;width: 137%;}
+
+    .chrisboxtitle p {
+        position: relative;
+        left: -251px;
+        width: 144%;
+    }
+    .chrisboxtitle2 h5 {position: relative;top: 201px;left: -107px;}
+
+    .chrisboxtitle2 p {
+        position: relative;
+        top: 220px;
+        left: -117px;
+    }
+
+
+    .chrisboxtitle3 h5 {position: relative;top: 373PX;left: -104px;}
+
+    .chrisboxtitle3 p {
+        top: 384px;
+        position: relative;
+        left: -124px;
+    }
+
+    main h1 {
+        /* left: 36px; */
+        position: relative;
+        width: 241px;
+        top: 113px;
+        left: -20px;
+    }
+    .chrisboximg2 img {
+        margin-left: 43px;
+    margin-top: 118px;
+    }
+    .img img {
+        margin-left: -795px;
+        margin-top: 194px;
+    }
+    .chrisboximg3 img {
+        margin-top: 198px;
+    margin-left: -77px;
+    }
+    .chrisboxtitle3 h5 {
+        left: -143px;
+    }
+    
+    .chrisboxtitle3 p {
+        left: -168px;
+    }
+    .img img {position: relative;left: 10px;top: 257px;}
+    .img h3 {
+        margin-top: 335px;
+    }
+    .first60 h2 {
+        margin-left: -234px;
+    }
+    
+    .giftbox img {position: relative;left: -149px;}
+    
+    .giftbox h4 {
+        margin-left: -165px;
+    }
+    .giftbox h5 {
+        margin-top: 257px;
+        /* left: 145px; */
+        margin-left: -264px;
+    }
+    .giftbox span {
+        margin-top: 1524px;
+        margin-left: -60px;
+    }
+    
+    .giftbox p {top: -198px;}
+    .first60 h2 {
+        position: relative;
+        left: -333px;
+        width: 247px;
+    }
+    footer#foot {
+        position: absolute;
+        left: -127px;
+        width: 273px;
+    }
+    .imgfooter img {
+        display: none;
+    }
+    .fottertext button {
+        margin-top: -1139px;
+        margin-left: -190px;
+    }
+    
+    .fottertext h2 {
+        top: 321px;
+        position: relative;
+    }
+    
+    .fottertext input {
+        margin-top: 366px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.giftbox img {
+    float: left;
+}
+
+.giftcontainer {
+    margin-left: 299px;
+    margin-top: 325px;
+}
+.chrisbox1 {
+    margin-left: 99px;
+}
+.img img {
+    position: relative;
+    top: 304px;
+    left: 533px;
+    width: 390px;
+}
+
+
+
+.imgtitle button:hover{
+    transform: translateX(10px);
+    border: 2px solid black;
+    background: transparent;
+    color: #000000;
+    transition:0.5s;
+}
+
+
+
+.imgtitle1 button:hover{
+    transform: translateX(10px);
+    border: 2px solid black;
+    background: transparent;
+    color: #000000;
+    transition:0.5s;
+}
+
+.imgtitle1 button {
+    margin-left: 58px;
+    margin-top: 10px;
+}
+
+.img h3 {
+    margin-left: 67px;
+    font-size: 24px;
+}
+
+.img p {
+    width: 246px;
+    margin-left: 66px;
+    margin-top: 56px;
+}
+
+
+
+.giftbox img {
+    padding: 77px;
+    margin-left: -88px;
+}
+
+.first60 h2 {
+    margin-left: 123px;
+    font-size: 34px;
+    font-family: monospace;
+}
+.giftbox h4 {
+ 
+    position: absolute;
+    left: 305px;
+}
+.giftbox h5 {
+    position: absolute;
+    left: 431px;
+    font-size: 14px;
+}
+
+.giftbox span {
+    position: absolute;
+    left: 53%;
+    top: 279%;
+}
+.giftbox p {
+    left: -153px;
+    position: relative;
+    top: 17px;
+}
+
+.giftbox img:hover{
+    box-shadow: ;
+}
+footer#foot {
+    background: red;
+ 
+    margin-top: 378px;
+    height: 390px;
+    margin-left: 181px;
+    border-radius: 48px;
+}
+.imgfooter img {
+    width: 303px;
+    margin-left: 328px;
+    margin-top: 39px;
+}
+
+.fottertext h2 {
+    margin-top: -248px;
+    margin-left: 39px;
+    font-family: cursive;
+    font-size: 30px;
+}
+.fottertext input {
+    padding: 19px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 20px;
+}
+.fottertext button {
+    position: absolute;
+    left: 216px;
+    padding: 17px;
+    border-radius: 29px;
+    border: none;
+    background: black;
+    color: white;
+    top: 373%;
+}
+.fottertext button:hover{
+    transform: translateX(10px);
+    border: 2px solid black;
+    background: transparent;
+    color: #000;
+    transition: 1s;
+
+}
+  
